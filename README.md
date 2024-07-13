@@ -5,9 +5,8 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 
 # Data Description
 -Berikut Deskripsi Kolom:
- List Data Gudang Retail Clothing
--Repositori ini berisi skrip Python untuk mengelola data pakaian ritel. Ini memungkinkan untuk membaca, membuat, memperbarui, menghapus, dan menyortir data.
--Berikut contoh data dummy yang akan dimasukkan fungsi CRUDS:
+                                                           List Data Gudang Retail Clothing
+
 | `kode`                 | `nama barang`                    | `stok barang`           | `harga jual satuan`              | `harga produksi satuan`                 |
 |------------------------|----------------------------------|-------------------------|----------------------------------|-----------------------------------------|
 | 1                      | Long Sleeve Shirt                |    700                  |     Rp 399.000                   |   Rp 150.000                            |
