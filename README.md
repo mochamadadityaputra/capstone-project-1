@@ -11,11 +11,11 @@ The data contains the following fields:
 
 | Field                   | Description                      |
 |-------------------------|----------------------------------|
-| `kode`                  | Unique code for the item         |
-| `nama barang`           | Name of the item                 |
-| `stok barang`           | Stock quantity of the item       |
-| `harga jual satuan`     | Selling price per unit           |
-| `harga produksi satuan` | Production cost per unit         |
+| `kode`                  | Kode Unik untuk item nama barang |
+| `nama barang`           | Name dari item                   |
+| `stok barang`           | Jumlah Stok untuk item           |
+| `harga jual satuan`     | Harga jual per satuan            |
+| `harga produksi satuan` | Biaya produksi per unit          |
 
 ## Main Menu
 # Sub Menu 1: Read
