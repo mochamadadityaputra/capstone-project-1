@@ -5,16 +5,8 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 
 # Data Description
 Berikut Deskripsi Kolom:
-# Retail Clothing Data
-
-This repository contains a Python script for managing retail clothing data. It allows for reading, creating, updating, deleting, and sorting data.
-
-## Usage
-
-To use the script, run the `retail_clothing_data.py` file. Follow the on-screen instructions to interact with the data.
-
-## Data Description
-
+Retail Clothing Data
+Repositori ini berisi skrip Python untuk mengelola data pakaian ritel. Ini memungkinkan untuk membaca, membuat, memperbarui, menghapus, dan menyortir data.
 The data contains the following fields:
 
 | Field                   | Description                      |
@@ -24,5 +16,3 @@ The data contains the following fields:
 | `stok barang`           | Stock quantity of the item       |
 | `harga jual satuan`     | Selling price per unit           |
 | `harga produksi satuan` | Production cost per unit         |
-
-
