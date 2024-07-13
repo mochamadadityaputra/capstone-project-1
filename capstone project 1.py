@@ -8,7 +8,7 @@ data_base = [
 ]
 
 # Read data
-def read_data(data_base):  # data_base disini sebagai input
+def read_data(data_base):  # input berupa data_base
     print(tabulate.tabulate(data_base, headers="keys", tablefmt="pretty"))
 
 # Validate numeric input
@@ -75,7 +75,7 @@ def create_data(data_base):  # input berupa data_base
     print("Data berhasil ditambahkan!")
 
 # Update data
-def update_data(data_base):  # data_base disini sebagai input
+def update_data(data_base):  # input berupa data_base
     read_data(data_base)
     while True:
         row = num("Masukkan nomor baris data yang ingin diupdate (dimulai dari 1): ") - 1
@@ -142,7 +142,7 @@ def sort_data(data_base): # data_base disini sebagai input
 def main():
     while True:
         print("""
-        Data list Gudang Retail Clothing 
+        List Data Gudang Retail Clothing 
         Menu:
         1. Read Data
         2. Create Data
