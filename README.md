@@ -8,15 +8,14 @@ Berikut Deskripsi Kolom:
 Retail Clothing Data.
 Repositori ini berisi skrip Python untuk mengelola data pakaian ritel. Ini memungkinkan untuk membaca, membuat, memperbarui, menghapus, dan menyortir data.
 Berikut contoh data dummy yang akan dimasukkan fungsi CRUDS:
+| `kode`                 | `nama barang`                    | `stok barang`           | `harga jual satuan`              | `harga produksi satuan`                 |
+|------------------------|----------------------------------|-------------------------|----------------------------------|-----------------------------------------|
+| 1                      | Long Sleeve Shirt                |    700                  |     Rp 399.000                   |   Rp 150.000                            |
+| 2                      | Linen Shirt                      |    100                  |     Rp 599.000                   |   Rp 400.000                            |
+| 3                      | Smart Angkle Pants               |    500                  |     Rp 499.000                   |   Rp 200.000                            |
+| 4                      | Cargo Pants                      |    300                  |     Rp 699.000                   |   Rp 450.000                            |
 
-+------+--------------------+-------------+-------------------+-----------------------+
-| kode |    nama barang     | stok barang | harga jual satuan | harga produksi satuan |
-+------+--------------------+-------------+-------------------+-----------------------+
-|  1   | Long Sleeve Shirt  |     700     |    Rp 399.000     |      Rp 150.000       |
-|  2   |    Linen Shirt     |     100     |    Rp 599.000     |      Rp 400.000       |
-|  3   | Smart Angkle Pants |     500     |    Rp 499.000     |      Rp 200.000       |
-|  4   |    Cargo Pants     |     300     |    Rp 699.000     |      Rp 450.000       |
-+------+--------------------+-------------+-------------------+-----------------------+
+
 
 ## Main Menu
 # Sub Menu 1: Read
