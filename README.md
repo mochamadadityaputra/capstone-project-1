@@ -20,7 +20,7 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 # Sub Menu 1: Read
 Sub-menu ini akan menampilkan List Data Gudang Retail Clothing.
 # Sub Menu 2: Create
-Sub-menu ini akan menambahkan data dalam List Data Gudang Retail Clothing. User akan diminta untuk memasukkan value untuk semua kolom. Data yang dimasukkan tidak boleh kosong & harus sesuai range yang terdapat pada deskripsi kolom.
+Sub-menu ini akan menambahkan data dalam List Data Gudang Retail Clothing. User akan diminta untuk memasukkan value untuk semua kolom.
 # Sub Menu 3: Update
 Sub-menu ini akan memperbaharui data dalam List Data Gudang Retail Clothing. User akan diminta memasukkan baris yang akan diperbaharui.
 # Sub Menu 4: Delete
