@@ -26,6 +26,6 @@ Sub-menu ini akan memperbaharui data dalam List Data Gudang Retail Clothing. Use
 # Sub Menu 4: Delete
 Sub-menu ini akan menghapus data dalam List Data Gudang Retail Clothing. User akan diminta memasukkan baris yang akan dihapus.
 # Sub Menu 5: Sort
-Sub-menu ini akan mengurutkan data dalam List Data Gudang Retail Clothing. User akan diminta memasukkan baris yang akan diurutkan berdasarkan Descending atau Ascending.
+Sub-menu ini akan mengurutkan data dalam List Data Gudang Retail Clothing. User akan diminta memasukkan data yang akan diurutkan berdasarkan Descending atau Ascending.
 # Sub Menu 6: Quit
 Sub-menu ini akan membuat keluar dari program Data list Gudang Retail Clothing.
