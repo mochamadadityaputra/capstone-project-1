@@ -5,7 +5,19 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 - https://drive.google.com/file/d/1z318UUGnm0g1b7colMBPpSx_F_lKK-t2/view?usp=sharing
 
 # Data Description
--Berikut Deskripsi Kolom:
+
+Data berisi field berikut:
+
+| Field                   | Description                      |
+|-------------------------|----------------------------------|
+| `kode`                  | Kode unik untuk item tersebut    |
+| `nama barang`           | Nama dari item tersebut          |
+| `stok barang`           | Jumlah stok barang               |
+| `harga jual satuan`     | Harga jual per satuan            |
+| `harga produksi satuan` | Biaya produksi per unit          |
+
+## Data Dummy
+-Berikut Data Dummy:
                                                            List Data Gudang Retail Clothing
 
 | `kode`                 | `nama barang`                    | `stok barang`           | `harga jual satuan`              | `harga produksi satuan`                 |
