@@ -2,6 +2,7 @@
 Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015)
 - Mochamad Aditya Putra
 - Link Drive untuk penjelasan code:
+- https://drive.google.com/file/d/1z318UUGnm0g1b7colMBPpSx_F_lKK-t2/view?usp=sharing
 
 # Data Description
 -Berikut Deskripsi Kolom:
