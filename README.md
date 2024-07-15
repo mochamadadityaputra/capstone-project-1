@@ -18,7 +18,7 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 
 ## Main Menu
 # Sub Menu 1: Read
-Sub-menu ini akan menampilkan List Data Gudang Retail Clothing. Dimana data akan dibentuk table menggunakan imoprt Tabulate
+Sub-menu ini akan menampilkan List Data Gudang Retail Clothing. Dimana data akan dibentuk table menggunakan import Tabulate
 # Sub Menu 2: Create
 Sub-menu ini akan menambahkan data dalam List Data Gudang Retail Clothing. User akan diminta untuk memasukkan value untuk semua kolom dan input akan divalidasi menggunakan fungsi tambahan (numerik, string, code, format rupiah).
 # Sub Menu 3: Update
