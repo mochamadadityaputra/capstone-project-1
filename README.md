@@ -18,15 +18,7 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 
 
 ## Main Menu
-Pada main menu akan ada menu data seperti dibawah:
-List Data Gudang Retail Clothing 
-        Menu:
-        1. Read Data
-        2. Create Data
-        3. Update Data
-        4. Delete Data
-        5. Sort Data
-        6. Exit
+Pada main menu user akan ditampilkan menu untuk mengakses dan mengedit data. Lalu user akan menginput nomor pada menu untuk menjalankan fungsi yang terdapat pada menu.
 # Sub Menu 1: Read
 Sub-menu ini akan menampilkan List Data Gudang Retail Clothing. Dimana data akan dibentuk table menggunakan import Tabulate
 # Sub Menu 2: Create
