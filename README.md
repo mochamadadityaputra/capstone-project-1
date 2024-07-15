@@ -17,7 +17,7 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 
 
 
-## Main Menu
+# Main Menu
 Pada main menu user akan ditampilkan menu untuk mengakses dan mengedit data. Lalu user akan menginput nomor pada menu untuk menjalankan fungsi yang terdapat pada menu.
 # Sub Menu 1: Read
 Sub-menu ini akan menampilkan List Data Gudang Retail Clothing. Dimana data akan dibentuk table menggunakan import Tabulate
