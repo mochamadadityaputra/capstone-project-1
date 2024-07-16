@@ -52,6 +52,6 @@ Fungsi ini memvalidasi input pengguna untuk memastikan input tersebut adalah kod
 # Validasi format rupiah function
 Fungsi ini memformat input angka menjadi format mata uang Rupiah. Fungsi ini diberi nama `fortmat_rupiah(prompt)`.
 # Custom sort function
-Fungsi ini digunakan sebagai kunci pengurutan dalam fungsi `sorted`. Fungsi ini akan mengembalikan nilai dari kolom yang ditentukan oleh `sort_by` untuk setiap item dalam `data_base`. Funsgi ini diberi nama `custom_sort(item)`.
+Fungsi ini digunakan sebagai kunci pengurutan dalam fungsi `sorted`. Fungsi ini akan mengembalikan nilai dari kolom yang ditentukan oleh `sort_by` untuk setiap item dalam `data_base`. Fungsi ini diberi nama `custom_sort(item)`.
 
 
