@@ -1,5 +1,5 @@
 # CRUD Program: List Data Gudang (Retail Clothing) 
-Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015)
+Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015):
 - Mochamad Aditya Putra
 - Link Drive untuk penjelasan code:
 - https://drive.google.com/file/d/1z318UUGnm0g1b7colMBPpSx_F_lKK-t2/view?usp=sharing
@@ -38,10 +38,14 @@ Sub-menu ini akan menambahkan data dalam List Data Gudang Retail Clothing. Fungs
 ## Sub Menu 3: Update
 Sub-menu ini akan memperbaharui data dalam List Data Gudang Retail Clothing. Fungsi `update_data(data_base)` memungkinkan user untuk memperbarui data barang yang sudah ada berdasarkan input dari user. Pada fungsi ini user tidak harus menginput baris yang ingin diperbaharui berdasarkan index, cukup input nomor baris yang sesuai pada table. Lalu setelah itu pilih antara `kode` , `nama barang` , `stok barang` , `harga jual satuan` , atau `harga produksi satuan` yang ingin diperbaharui, dan untuk memastikan input yang dimasukkan oleh user valid, kita memiliki beberapa fungsi validasi seperti `num(prompt)` untuk input angka, `stri(prompt)` untuk input huruf, `code(prompt)` untuk memastikan input kode adalah numerik atau akan otomatis mengisi kode dengan kode terakhir dalam daftar, serta `fortmat_rupiah(prompt)` untuk memformat angka ke dalam mata uang Rupiah.
 ## Sub Menu 4: Delete
-Sub-menu ini akan menghapus data dalam List Data Gudang Retail Clothing. Fungsi `delete_data(data_base)` memungkinkan user untuk Menampilkan data yang ada, Meminta pengguna memilih baris untuk dihapus, dan menghapus baris yang dipilih dari `data_base`.
+Sub-menu ini akan menghapus data dalam List Data Gudang Retail Clothing. Fungsi `delete_data(data_base)` memungkinkan user untuk Menampilkan data yang ada, Meminta pengguna memilih kode untuk dihapus, dan menghapus baris dari kode yang dipilih dari `data_base`.
 ## Sub Menu 5: Sort
 Sub-menu ini akan mengurutkan data dalam List Data Gudang Retail Clothing. Fungsi `sort_data(data_base)` akan memninta user memasukkan data yang akan diurutkan berdasarkan Descending atau Ascending. Dan juga akan divalidasi dengan fungsi `custom_sort(item)` dan Mengurutkan `data_base` menggunakan fungsi sorted dan menampilkan hasilnya.
-## Sub Menu 6: Quit
+## Sub Menu 6: Filter
+Sub-menu ini akan memfilter data dalam List Data Gudang Retail Clothing. Fungsi `filter_data(data_base)` akan memninta user memasukkan data yang akan difilter berdasarkan kode/nama barang/stok barang/harga jual satuan/harga produksi satuan.
+## Sub Menu 7: Take Things
+Sub-menu ini akan mengurangi jumlah stok barang dalam List Data Gudang Retail Clothing. Fungsi `ambil_barang(data_base)` akan memninta user memasukkan data yang akan dikurangi berdasarkan kode atau nama barang.
+## Sub Menu 8: Quit
 Sub-menu ini akan membuat keluar dari program Data list Gudang Retail Clothing.
 
 # Validasi Input
