@@ -51,11 +51,11 @@ Sub-menu ini akan membuat keluar dari program Data list Gudang Retail Clothing.
 # Validasi Input
 input dari user juga akan divalidasi menggunakan beberapa fungsi dibawah ini:
 ## Validasi input numeric function
-Fungsi ini memvalidasi input user untuk memastikan input tersebut adalah angka. Fungsi ini diberi nama `num(prompt)`.
+Fungsi ini memvalidasi input user untuk memastikan input tersebut adalah angka. Fungsi ini diberi nama `num(prompt)`. Untuk stok barang nilai yang diinput tidak boleh 0.
 ## Validasi input string function
-Fungsi ini memvalidasi input user untuk memastikan input tersebut adalah string yang hanya terdiri dari huruf. Fungsi ini diberi nama `stri(prompt)`.
+Fungsi ini memvalidasi input user untuk memastikan input tersebut adalah string yang hanya terdiri dari huruf dan special characters/symbols. Fungsi ini diberi nama `stri(prompt)`.
 ## Validasi input code function
-Fungsi ini memvalidasi input pengguna untuk memastikan input tersebut adalah kode numerik atau kosong. Fungsi ini diberi nama `code(prompt)`.
+Fungsi ini memvalidasi input pengguna untuk memastikan input tersebut adalah kode numerik atau kosong. Fungsi ini diberi nama `code(prompt)`. Dan untuk kode yang diinput tidak boleh 0.
 ## Validasi format rupiah function
 Fungsi ini memformat input angka menjadi format mata uang Rupiah. Fungsi ini diberi nama `fortmat_rupiah(prompt)`.
 ## Custom sort function
